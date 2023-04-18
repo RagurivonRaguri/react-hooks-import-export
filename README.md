@@ -22,7 +22,7 @@ Developers separate their code into modules for many reasons:
   they are explicitly exported, so by using modules, you don't have to worry
   about polluting the global variable scope.
 - **Single-responsibility principle**: Each module is responsible for
-  accomplishing a certain piece of functionality, or adding a specific feature
+  accomplishing a certain piece of functionality , or adding a specific feature
   to the application.
 - **Easier to navigate**: Modules that are separated and clearly named make code
   more readable for other developers.
